@@ -1,5 +1,8 @@
 # FishyInstaller 🐠
 
+![image](https://github.com/irmo-de/FishyInstaller/assets/20524312/5a50a0c0-8ec6-4ae7-abe9-970c223d6568)
+
+
 FishyInstaller is a script designed to streamline the installation of the `fish` shell along with the `bobthefish` theme. With just a few simple commands, users can easily set up their terminal with a fresh and vibrant look.
 
 ## 🚀 Direct Installation from GitHub
