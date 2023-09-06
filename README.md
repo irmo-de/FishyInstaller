@@ -6,9 +6,9 @@ FishyInstaller is a script designed to streamline the installation of the `fish`
 
 You can install the FishyInstaller script directly from GitHub using the following command:
 
-\```
+```bash
 curl -L https://raw.githubusercontent.com/irmo-de/FishyInstaller/main/install.sh | bash
-\```
+```
 
 ## 📖 Manual Installation
 
@@ -17,21 +17,21 @@ If you'd prefer to inspect the script and install manually, follow these steps:
 1. **Download the script**: 
    - Download the `install.sh` script from the GitHub repository:
    
-\```
+```bash
 wget https://raw.githubusercontent.com/irmo-de/FishyInstaller/main/install.sh
-\```
+```
 
 2. **Make the script executable**: 
 
-\```
+```
 chmod +x install.sh
-\```
+```
 
 3. **Run the script**:
 
-\```
+```
 ./install.sh
-\```
+```
 
 4. 🎉 After the installation is complete, restart your terminal or re-login to see the changes.
 
